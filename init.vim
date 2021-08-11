@@ -4,7 +4,6 @@ source $HOME/.config/nvim/vim-plug/plugins.vim
 
 "Plug-configs"
 source $HOME/.config/nvim/plug-config/fzf.vim
-source $HOME/.config/nvim/plug-config/coc.vim
 source $HOME/.config/nvim/plug-config/nerdtree.vim
 
 "Other Settings"
